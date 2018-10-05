@@ -14,6 +14,7 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        print("This is my latest code eith new branch")
     }
 
     @IBAction func movetoNExtController()
